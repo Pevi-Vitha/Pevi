@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Kotlin, R, Python, Javascript<br><br>📫 How to reach me peviiivithange@gmail.com<br><br>⚡  Fun fact hmmm
+🌱 I’m currently learning Kotlin, R, Python, Javascript<br><br>📫 How to reach me peviiivithange@gmail.com<br><br>⚡  Fun fact...hmmm
 
 
 ## 🌐 Socials:
